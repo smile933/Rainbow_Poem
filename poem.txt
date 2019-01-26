@@ -4,8 +4,10 @@ Pink
 Orange
 Blue
 Unicorn
+Pony
 Red
 Green
 Yellow
 These are the colors of the rainbow
 and the unicorn
+and the ponnies

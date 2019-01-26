@@ -6,7 +6,6 @@ Blue
 Indigo
 Unicorn
 Pony
-B
 Red
 Green
 Yellow
